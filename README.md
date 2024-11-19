@@ -2,7 +2,6 @@
 
 Projeto desenvolvido em Java para a criação de uma calculadora simples e funcional, focada em aplicar conceitos de programação orientada a objetos, estrutura modular de código e lógica matemática básica. Este projeto demonstra a integração de uma interface amigável com operações aritméticas essenciais.
 
-[Clique aqui para acessar o repositório no GitHub](https://github.com/Joaofernandes-DEV/Java-calculadora.git)
 
 ---
 
