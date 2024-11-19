@@ -1,22 +1,72 @@
-# **Calculadora Simples** 🧮
+### **CALCULADORA EM JAVA**
 
-[![LinkedIn](https://img.shields.io/badge/Connect-LinkedIn-blue?style=flat&logo=linkedin)]( https://lnkd.in/eWWU9iz7)
+Projeto desenvolvido em Java para a criação de uma calculadora simples e funcional, focada em aplicar conceitos de programação orientada a objetos, estrutura modular de código e lógica matemática básica. Este projeto demonstra a integração de uma interface amigável com operações aritméticas essenciais.
 
-### **Descrição** 📖
-Este projeto é uma calculadora simples desenvolvida em Java, permitindo realizar operações matemáticas básicas como adição, subtração, multiplicação e divisão.
+[Clique aqui para acessar o repositório no GitHub](https://github.com/Joaofernandes-DEV/Java-calculadora.git)
 
-### **Funcionalidades** ⚙️
-- **Adição**: Realiza a soma de dois números.
-- **Subtração**: Realiza a subtração de dois números.
-- **Multiplicação**: Realiza a multiplicação de dois números.
-- **Divisão**: Realiza a divisão de dois números.
+---
 
-### **Tecnologias Utilizadas** 🛠️
-- **Java**: Linguagem de programação orientada a objetos.
-- **Eclipse IDE**: Ambiente de desenvolvimento para codificação e testes.
-- **GitHub**: Controle de versão e hospedagem do projeto.
+## 📋 **Descrição do Projeto**
 
-### **Como Rodar o Projeto** 🚀
-1. Clone o repositório:
-   ```bash
-   git clone https://github.com/Joaofernandes-DEV/Calculadora.git
+O sistema é uma calculadora básica que realiza operações como soma, subtração, multiplicação e divisão. Ideal para quem está iniciando no aprendizado de Java, este projeto explora conceitos fundamentais de desenvolvimento, como modularização, validação de entrada de dados e interação com o usuário.
+
+---
+
+## 🎯 **Objetivo**
+
+Fornecer uma base prática para o aprendizado e a implementação de funcionalidades simples, enquanto desenvolve habilidades fundamentais de programação em Java.
+
+---
+
+## 📚 **Aprendizados**
+
+O desenvolvimento deste projeto permitiu explorar:
+- Manipulação de entradas e saídas de dados no console.
+- Modularização do código, facilitando a manutenção e futuras expansões.
+- Implementação de validação para operações matemáticas, como a divisão por zero.
+- Estruturação de sistemas de lógica sequencial.
+
+---
+
+## 🛠 **Funcionalidades**
+
+- **Operações Aritméticas Básicas**:
+  - Soma, Subtração, Multiplicação e Divisão.
+- **Validação de Entrada**:
+  - Tratamento de erros para evitar operações inválidas, como divisão por zero.
+- **Interface Simples**:
+  - Interação via console com menus claros e intuitivos.
+
+---
+
+## 📈 **Exemplo de Uso**
+
+- O sistema solicita ao usuário a operação desejada.
+- Em seguida, pede os valores a serem calculados.
+- Após a operação, exibe o resultado e permite novas interações.
+
+---
+
+## 📂 **Estrutura do Projeto**
+
+```plaintext
+Java-Calculadora/
+├── src/
+│   ├── Principal.java          # Classe principal para execução do sistema.
+│   ├── Calculadora.java        # Classe responsável pela lógica das operações.
+│   ├── Validacao.java          # Classe para validação das entradas do usuário.
+├── README.md                   # Documentação do projeto.
+```
+
+## 🚀 **Tecnologias Utilizadas**
+
+| Tecnologia       | Descrição                                            |
+|------------------|------------------------------------------------------|
+| **Java**         | Linguagem principal para desenvolvimento do sistema. |
+| **Git**          | Controle de versão e colaboração em equipe.          |
+| **GitHub**       | Plataforma para hospedagem do código-fonte.          |
+| **IntelliJ IDEA**| IDE utilizada para escrever e executar o projeto.    |
+
+
+## **Autor**
+<img loading="lazy" src="https://avatars.githubusercontent.com/u/170758704?s=400&u=da7a33d81f3feeb953e687442cba5d042527f94d&v=4" width=115><br><sub>João Vitor Fernandes</sub>
