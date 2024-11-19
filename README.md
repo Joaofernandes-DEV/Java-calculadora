@@ -56,7 +56,8 @@ Java-Calculadora/
 │   ├── Validacao.java          # Classe para validação das entradas do usuário.
 ├── README.md                   # Documentação do projeto.
 ```
-
+ ---
+ 
 ## 🚀 **Tecnologias Utilizadas**
 
 | Tecnologia       | Descrição                                            |
@@ -66,6 +67,9 @@ Java-Calculadora/
 | **GitHub**       | Plataforma para hospedagem do código-fonte.          |
 | **IntelliJ IDEA**| IDE utilizada para escrever e executar o projeto.    |
 
+---
 
 ## **Autor**
 <img loading="lazy" src="https://avatars.githubusercontent.com/u/170758704?s=400&u=da7a33d81f3feeb953e687442cba5d042527f94d&v=4" width=115><br><sub>João Vitor Fernandes</sub>
+
+---
